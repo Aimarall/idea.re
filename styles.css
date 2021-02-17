@@ -1,10 +1,18 @@
+* {
+    box-sizing: border-box;
+}
 nav ul {
-    list-style-type: none;lex;
+    margin-right: 130px;
+    float: right;
+    list-style-type: none;
     display: flex;
 }
 li a {
+    padding: 6px;
     text-decoration: none;
 }
+
 .example {
+    display:inline;
     margin: 10px;
 }
