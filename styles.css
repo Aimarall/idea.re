@@ -1,0 +1,10 @@
+nav ul {
+    list-style-type: none;lex;
+    display: flex;
+}
+li a {
+    text-decoration: none;
+}
+.example {
+    margin: 10px;
+}
